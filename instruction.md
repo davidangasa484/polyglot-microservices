@@ -119,8 +119,8 @@ State that the project is under MIT License.
 - Code blocks must specify the language for syntax highlighting
 - All URLs and file paths must be accurate
 - Badge URLs should follow this format:
-  - CI: `https://github.com/JoramWells/polygot-microservices/workflows/CI/badge.svg`
-  - Coverage: `https://codecov.io/gh/JoramWells/polygot-microservices/branch/main/graph/badge.svg`
+  - CI: `https://github.com/davidangasa484/polyglot-microservices/workflows/CI/badge.svg`
+  - Coverage: `https://codecov.io/gh/davidangasa484/polyglot-microservices/branch/main/graph/badge.svg`
   - License: `https://img.shields.io/badge/License-MIT-blue.svg`
 - Curl examples must use `localhost` and the correct ports
 - Do not modify any existing code or configuration files

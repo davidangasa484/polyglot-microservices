@@ -5,8 +5,8 @@ set -e
 cat > README.md << 'EOF'
 # Polyglot Microservices Platform
 
-![CI](https://github.com/JoramWells/polygot-microservices/workflows/CI/badge.svg)
-![Coverage](https://codecov.io/gh/JoramWells/polygot-microservices/branch/main/graph/badge.svg)
+![CI](https://github.com/davidangasa484/polyglot-microservices/workflows/CI/badge.svg)
+![Coverage](https://codecov.io/gh/davidangasa484/polyglot-microservices/branch/main/graph/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A modern microservices architecture demonstrating polyglot development with services written in Python, Node.js, and Go. This platform showcases inter-service communication, containerization, and automated CI/CD pipelines.
@@ -50,7 +50,7 @@ For local development without Docker:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/JoramWells/polygot-microservices
+git clone https://github.com/davidangasa484/polyglot-microservices
 cd microservices
 ```
 
